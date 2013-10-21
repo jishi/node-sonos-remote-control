@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SONOS REMOTE CONTROL
 ====================
 
@@ -25,3 +26,9 @@ the third column is the actual key pressed. The code you receive might differ fo
 The node script will read those and map the actual key code to different actions on the Sonos system, which are sent across the network. 
 
 Enjoy!
+=======
+node-sonos-remote-control
+=========================
+
+A simple implementation of an IR remote to Sonos mapper for linux/lirc (raspberry pi)
+>>>>>>> c531270584ae72a41323e921bcef9aa86eedd195
