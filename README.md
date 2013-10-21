@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 SONOS REMOTE CONTROL
 ====================
 
@@ -31,4 +30,4 @@ node-sonos-remote-control
 =========================
 
 A simple implementation of an IR remote to Sonos mapper for linux/lirc (raspberry pi)
->>>>>>> c531270584ae72a41323e921bcef9aa86eedd195
+
