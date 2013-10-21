@@ -6,8 +6,8 @@ Simple proof of concept for controlling a Sonos system using a standard IR remot
 My setup includes:
 
 Raspberry Pi (wired to one of my players, no wireless necessary!)
-Nwazet tuxedo case [http://nwazet.com/nwazet-pi-tuxedo-case]
-Nwazet IR receiver (for GPIO) [http://nwazet.com/nwazet-pi-infrared-receiver]
+Nwazet tuxedo case http://nwazet.com/nwazet-pi-tuxedo-case
+Nwazet IR receiver (for GPIO) http://nwazet.com/nwazet-pi-infrared-receiver
 A standard LG remote, but almost any remote will work. Most of them will have pre-made lirc mapping files, if not you can learn lirc your remote.
 
 HOW IT WORKS
