@@ -28,3 +28,4 @@ The node script will read those and map the actual key code to different actions
 
 Enjoy!
 
+To watch it in action (early version): http://www.youtube.com/watch?v=sUISofdYYjg
