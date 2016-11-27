@@ -1,11 +1,9 @@
 {
   "name": "sonos-remote-control",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A simple node app for controlling a Sonos system with a remote control",
   "author": "Jimmy Shimizu <jimmy@shimizu.se>",
   "dependencies": {
-    "sonos-discovery": "git+https://github.com/jishi/node-sonos-discovery.git#master",
-    "sonos-http-api": "git+https://github.com/jishi/node-sonos-http-api.git#master"
-  },
-  "engine": "node 0.8.x"
+    "sonos-discovery": "https://github.com/jishi/node-sonos-discovery/archive/v1.2.0.tar.gz"
+  }
 }
